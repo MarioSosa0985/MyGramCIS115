@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6AE3B6F2-75F9-47FF-BA65-A5A9166D7D8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGram/wwwroot/css/Index.css">
+    <Files>
+      <File FileName="MyGram/Views/Shared/_Layout.cshtml" Line="34" Column="26" />
+      <File FileName="MyGram/Views/Home/Index.cshtml" Line="5" Column="1" />
+      <File FileName="MyGram/wwwroot/css/Index.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGram" expanded="True">
+            <Node name="MyGram" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="Index.css" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyGram PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
